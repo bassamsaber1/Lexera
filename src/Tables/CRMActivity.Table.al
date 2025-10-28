@@ -69,11 +69,6 @@ table 50102 "CRM Activity"
             Caption = 'Notes';
             DataClassification = CustomerContent;
         }
-        field(13; Completed; Boolean)
-        {
-            Caption = 'Completed';
-            DataClassification = CustomerContent;
-        }
     }
 
     keys

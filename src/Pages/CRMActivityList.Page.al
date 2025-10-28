@@ -63,11 +63,6 @@ page 50105 "CRM Activity List"
                     ApplicationArea = All;
                     ToolTip = 'Specifies the priority.';
                 }
-                field(Completed; Rec.Completed)
-                {
-                    ApplicationArea = All;
-                    ToolTip = 'Specifies if the activity is completed.';
-                }
             }
         }
     }
